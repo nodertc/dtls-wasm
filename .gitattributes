@@ -1,0 +1,5 @@
+*.a           binary
+*.wasm        binary
+src/dtls.js   binary
+*.pdf         binary
+*.pcapng      binary
